@@ -13,5 +13,11 @@
    - **Genre:** Action, Supernatural
    - **Synopsis:** After a demon slaughtered his family, young Tanjiro Kamado becomes a demon slayer to avenge his family and save his sister, who has been turned into a demon.
 
+## Anime Music
+Anime music plays a crucial role in setting the tone and enhancing the viewer's experience. 
+One popular theme song is:
+[Watch this anime theme song](https://www.youtube.com/watch?v=a4na2opArGY).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4na2opArGY" frameborder="0" allowfullscreen></iframe>
+
 [Back to Home](README.md)
 
