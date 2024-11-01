@@ -1,1 +1,17 @@
+# Anime Recommendations
+
+## Must-Watch Anime Series
+1. **Attack on Titan**
+   - **Genre:** Action, Fantasy
+   - **Synopsis:** In a world where humanity resides within enormous walled cities to protect themselves from Titans, the last remnants of humanity must fight back against these monstrous beings.
+
+2. **My Hero Academia**
+   - **Genre:** Action, Superhero
+   - **Synopsis:** In a world where the majority of the population possesses superpowers, a quirkless boy strives to become a hero in a prestigious academy for aspiring heroes.
+
+3. **Demon Slayer: Kimetsu no Yaiba**
+   - **Genre:** Action, Supernatural
+   - **Synopsis:** After a demon slaughtered his family, young Tanjiro Kamado becomes a demon slayer to avenge his family and save his sister, who has been turned into a demon.
+
+[Back to Home](README.md)
 
