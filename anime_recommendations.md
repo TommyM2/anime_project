@@ -16,7 +16,7 @@
 ## Anime Music
 Anime music plays a crucial role in setting the tone and enhancing the viewer's experience. 
 One popular theme song is:
-[Re:Zero](https://www.youtube.com/watch?v=iu_0kOfMGD0)).
+[Re:ZERO](https://www.youtube.com/watch?v=iu_0kOfMGD0)).
 
 
 [Back to Home](README.md)
