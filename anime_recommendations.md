@@ -16,7 +16,7 @@
 ## Anime Music
 Anime music plays a crucial role in setting the tone and enhancing the viewer's experience. 
 One popular theme song is:
-[Watch this anime theme song]([https://www.youtube.com/watch?v=a4na2opArGY](https://www.youtube.com/watch?v=iu_0kOfMGD0)).
+[Watch this anime theme song](https://www.youtube.com/watch?v=iu_0kOfMGD0)).
 
 
 [Back to Home](README.md)
